@@ -6,6 +6,6 @@
 ### The stocks analyzed in the project saw a much greater return in 2017, with only one security yielding a negative return. However in 2018, two of the twelve stocks showed a positive return. 
 
 # Execution time : Refactored vs Original
-![](stocks_analysis/resources/Module_2017.png).  ![](stocks_analysis/resources/Module_2017.png)
-![](stocks_analysis/resources/VBA_Challenge_2018.png) ![](stocks_analysis/resources/Module_2018.png)
+![](stocks_analysis/resources/VBA_CHALLENGE_2017.png).  ![](stocks_analysis/resources/MODULE_2017.png)
+![](stocks_analysis/resources/VBA_CHALLENGE_2018.png) ![](stocks_analysis/resources/MODULE_2018.png)
 
